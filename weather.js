@@ -1,6 +1,6 @@
 const API = {
     key:"ebbfd3b2598d1dc6a264a8c5bdedf7ff",
-    url: "http://api.openweathermap.org/data/2.5/"
+    url: "https://crossorigin.me/http://api.openweathermap.org/data/2.5/"
 };
 
 const searchbox = document.querySelector('.search-box');
